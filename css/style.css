@@ -1,0 +1,38 @@
+/**************************Tag selector**********************************/
+body {
+  background-color: #c0c0c0;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  width: 100%;
+}
+
+img {
+  height: 200px;
+}
+
+h1 {
+  color: #8b0000;
+}
+
+h3 {
+  color: #8b0000;
+}
+/**************************class selector****************************/
+.man{
+  height: 200px;
+}
+.Sezyit{
+  height: 100px;
+}
+.dor{
+  border-radius: 100%;
+}
+/**************************ID selector for 1 only****************: sudo class ************/
+#kok :hover{
+  color: purple;
+}
